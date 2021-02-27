@@ -1,0 +1,12 @@
+name: interactive_network
+title: interactive_network
+username:
+account: jsobel1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3393376
+bundleId: 3980324
+url: https://jsobel1.shinyapps.io/interactive_network/
+when: 1607805790.73029
+asMultiple: FALSE
+asStatic: FALSE
